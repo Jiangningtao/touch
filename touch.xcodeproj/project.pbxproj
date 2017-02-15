@@ -207,6 +207,7 @@
 				TargetAttributes = {
 					FD91EB361E52BAE2009FB403 = {
 						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = 5ZLH4SJD8E;
 						ProvisioningStyle = Automatic;
 					};
 					FD91EB4F1E52BAE2009FB403 = {
@@ -422,7 +423,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 5ZLH4SJD8E;
 				INFOPLIST_FILE = touch/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = yuanmaiwuliu.touch;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -433,7 +436,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 5ZLH4SJD8E;
 				INFOPLIST_FILE = touch/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = yuanmaiwuliu.touch;
 				PRODUCT_NAME = "$(TARGET_NAME)";
